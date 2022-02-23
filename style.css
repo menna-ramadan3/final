@@ -53,7 +53,7 @@ nav{
     color: #6b7943;
 }
 #navbarDropdown{
-    color: #fff;
+    /* color: #fff; */
 }
 
 .navbar-brand{
@@ -63,6 +63,7 @@ nav{
 }
 #mybrand{
     font-size: 25px;
+    color: white;
 }
 .nav-icon{
     font-size: 20px;
@@ -71,12 +72,11 @@ nav{
    
 }
 
-.dropdown{
+.nav-color{
     font-size: 20px;
     width: 20%;
-    padding-left: 20px;
 
-}
+} 
 .word{
     text-decoration: none;
     color: #fff;
@@ -93,6 +93,9 @@ nav{
 }
 .nav-it h6{
      text-decoration: none;
+}
+.home-color{
+    color: white !important;
 }
 
 .user-i{
